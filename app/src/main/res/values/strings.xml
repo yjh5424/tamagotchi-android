@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">tamagotchi-android</string>
+    <string name="app_desc">tamagotchi-android app</string>
 </resources>
