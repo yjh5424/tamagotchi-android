@@ -5,3 +5,7 @@ data class Status(
   val status_change: String?,
   val request_id: Long
 )
+
+data class Test(
+  var name : String
+)
